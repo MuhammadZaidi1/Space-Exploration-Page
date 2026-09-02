@@ -1,0 +1,9 @@
+body{
+    background-image: url('images/galaxy.webp');
+    background-size: cover;
+    color: #82a5ca;
+    text-align: center;
+}
+#main-logo{
+    width: 10px;
+}
