@@ -4,6 +4,16 @@ body{
     color: #82a5ca;
     text-align: center;
 }
-#main-logo{
-    width: 10px;
+#title{
+    font-size: 200px;
+
+}
+.btn{
+    width: 200px;
+    height: 100px;
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    color:#82a5ca;
+    font-size: 50px;
 }
