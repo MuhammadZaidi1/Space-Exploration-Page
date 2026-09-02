@@ -3,6 +3,7 @@ body{
     background-size: cover;
     color: #82a5ca;
     text-align: center;
+    font-family: 'Orbitron', sans-serif;
 }
 #title{
     font-size: 200px;
@@ -16,4 +17,11 @@ body{
     border: none;
     color:#82a5ca;
     font-size: 50px;
+    font-family: 'Orbitron', sans-serif;
+}
+#title{
+    text-shadow: 5px 5px 10px blacks;
+}
+#underline{
+    text-decoration: underline;
 }
